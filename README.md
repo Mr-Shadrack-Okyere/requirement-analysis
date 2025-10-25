@@ -128,7 +128,6 @@ Use Case Diagrams are especially valuable in the **Requirement Analysis phase** 
 - Provide a clear, high-level overview of the system’s functionality.
 - Help communicate system requirements between stakeholders and developers.
 - Make it easier to identify user roles, interactions, and dependencies.
-![use case diagram for the booking system, Listing actors and use cases](https://github.com/user-attachments/assets/aa0fcffc-a7df-4405-81fe-f4e2a6191403)
 
 ---
 
@@ -137,7 +136,7 @@ Use Case Diagrams are especially valuable in the **Requirement Analysis phase** 
 Below is a Use Case Diagram representing a **Booking Management System**.  
 It shows how different users (customers, administrators, and payment services) interact with the system.
 
-![Booking Management System Use Case Diagram](./alx-booking-uc.png)
+![use case diagram for the booking system, Listing actors and use cases](https://github.com/user-attachments/assets/aa0fcffc-a7df-4405-81fe-f4e2a6191403)
 
 ---
 
