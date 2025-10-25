@@ -135,8 +135,7 @@ Use Case Diagrams are especially valuable in the **Requirement Analysis phase** 
 
 Below is a Use Case Diagram representing a **Booking Management System**.  
 It shows how different users (customers, administrators, and payment services) interact with the system.
-alx-booking-uc.png
-
+<img width="858" height="521" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/791365c2-bd25-4fa8-a4a4-9304a21b217c" />
 
 ---
 
